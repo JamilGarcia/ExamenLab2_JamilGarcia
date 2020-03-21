@@ -1,0 +1,24 @@
+Instrucciones: 
+	Las ventanas se deben agrandar manualmente
+	Despues de crear un ATM se debe reinciar el programa para que el ATm aparezca en el comboBox
+	Mamé el login varias veces XD
+	Aca abajo estan los Ids y contraseñas de los usuarios
+	Las cuentas se crean automaticamente dandole a un boton
+	Abajo estan los IDs de los elementos por si lo necesitas
+
+
+ID:202089
+Contra:cliente
+Rol: Cliente
+
+100mil-400mil: id usuarios
+400mil-600mil: id ATM
+600mil-800mil: id cuentas
+900mil-1millo: id transaccion
+
+ID: 567964
+Rol: ATM Especial (Mucho dinero)
+
+ID: 272585
+contra: Prueba
+Rol: Mantenimiento
